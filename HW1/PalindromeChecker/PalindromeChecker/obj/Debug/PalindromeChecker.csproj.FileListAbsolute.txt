@@ -1,0 +1,7 @@
+C:\Users\biala\OneDrive\Documents\IM2\HW1\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.AssemblyReference.cache
+C:\Users\biala\OneDrive\Documents\IM2\HW1\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\biala\OneDrive\Documents\IM2\HW1\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe.config
+C:\Users\biala\OneDrive\Documents\IM2\HW1\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe
+C:\Users\biala\OneDrive\Documents\IM2\HW1\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.pdb
+C:\Users\biala\OneDrive\Documents\IM2\HW1\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.exe
+C:\Users\biala\OneDrive\Documents\IM2\HW1\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.pdb
