@@ -1,0 +1,7 @@
+C:\Users\biala\OneDrive\Documents\IM2\HW2\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+C:\Users\biala\OneDrive\Documents\IM2\HW2\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe
+C:\Users\biala\OneDrive\Documents\IM2\HW2\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.pdb
+C:\Users\biala\OneDrive\Documents\IM2\HW2\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.csproj.AssemblyReference.cache
+C:\Users\biala\OneDrive\Documents\IM2\HW2\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\biala\OneDrive\Documents\IM2\HW2\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.exe
+C:\Users\biala\OneDrive\Documents\IM2\HW2\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.pdb
