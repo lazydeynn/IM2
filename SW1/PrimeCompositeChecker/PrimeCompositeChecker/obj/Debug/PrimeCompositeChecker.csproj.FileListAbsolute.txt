@@ -1,0 +1,7 @@
+C:\Users\biala\OneDrive\Documents\IM2\SW1\PrimeCompositeChecker\PrimeCompositeChecker\bin\Debug\PrimeCompositeChecker.exe.config
+C:\Users\biala\OneDrive\Documents\IM2\SW1\PrimeCompositeChecker\PrimeCompositeChecker\bin\Debug\PrimeCompositeChecker.exe
+C:\Users\biala\OneDrive\Documents\IM2\SW1\PrimeCompositeChecker\PrimeCompositeChecker\bin\Debug\PrimeCompositeChecker.pdb
+C:\Users\biala\OneDrive\Documents\IM2\SW1\PrimeCompositeChecker\PrimeCompositeChecker\obj\Debug\PrimeCompositeChecker.csproj.AssemblyReference.cache
+C:\Users\biala\OneDrive\Documents\IM2\SW1\PrimeCompositeChecker\PrimeCompositeChecker\obj\Debug\PrimeCompositeChecker.csproj.CoreCompileInputs.cache
+C:\Users\biala\OneDrive\Documents\IM2\SW1\PrimeCompositeChecker\PrimeCompositeChecker\obj\Debug\PrimeCompositeChecker.exe
+C:\Users\biala\OneDrive\Documents\IM2\SW1\PrimeCompositeChecker\PrimeCompositeChecker\obj\Debug\PrimeCompositeChecker.pdb

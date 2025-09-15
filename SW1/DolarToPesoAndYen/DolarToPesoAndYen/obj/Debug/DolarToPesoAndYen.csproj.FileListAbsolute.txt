@@ -1,0 +1,7 @@
+C:\Users\biala\OneDrive\Documents\IM2\SW1\DolarToPesoAndYen\DolarToPesoAndYen\bin\Debug\DolarToPesoAndYen.exe.config
+C:\Users\biala\OneDrive\Documents\IM2\SW1\DolarToPesoAndYen\DolarToPesoAndYen\bin\Debug\DolarToPesoAndYen.exe
+C:\Users\biala\OneDrive\Documents\IM2\SW1\DolarToPesoAndYen\DolarToPesoAndYen\bin\Debug\DolarToPesoAndYen.pdb
+C:\Users\biala\OneDrive\Documents\IM2\SW1\DolarToPesoAndYen\DolarToPesoAndYen\obj\Debug\DolarToPesoAndYen.csproj.AssemblyReference.cache
+C:\Users\biala\OneDrive\Documents\IM2\SW1\DolarToPesoAndYen\DolarToPesoAndYen\obj\Debug\DolarToPesoAndYen.csproj.CoreCompileInputs.cache
+C:\Users\biala\OneDrive\Documents\IM2\SW1\DolarToPesoAndYen\DolarToPesoAndYen\obj\Debug\DolarToPesoAndYen.exe
+C:\Users\biala\OneDrive\Documents\IM2\SW1\DolarToPesoAndYen\DolarToPesoAndYen\obj\Debug\DolarToPesoAndYen.pdb
