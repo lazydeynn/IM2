@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36422.26
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserDefinedFunction", "UserDefinedFunction\UserDefinedFunction.csproj", "{F2770501-DFD7-425F-B36B-A96FCAC3CAD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2770501-DFD7-425F-B36B-A96FCAC3CAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2770501-DFD7-425F-B36B-A96FCAC3CAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2770501-DFD7-425F-B36B-A96FCAC3CAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2770501-DFD7-425F-B36B-A96FCAC3CAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C88542C6-2159-4118-BF1C-6A2C672C9F84}
+	EndGlobalSection
+EndGlobal

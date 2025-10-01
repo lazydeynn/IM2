@@ -1,0 +1,7 @@
+C:\Users\biala\OneDrive\Documents\IM2\HW3\UserDefinedFunction\UserDefinedFunction\bin\Debug\UserDefinedFunction.exe.config
+C:\Users\biala\OneDrive\Documents\IM2\HW3\UserDefinedFunction\UserDefinedFunction\bin\Debug\UserDefinedFunction.exe
+C:\Users\biala\OneDrive\Documents\IM2\HW3\UserDefinedFunction\UserDefinedFunction\bin\Debug\UserDefinedFunction.pdb
+C:\Users\biala\OneDrive\Documents\IM2\HW3\UserDefinedFunction\UserDefinedFunction\obj\Debug\UserDefinedFunction.csproj.AssemblyReference.cache
+C:\Users\biala\OneDrive\Documents\IM2\HW3\UserDefinedFunction\UserDefinedFunction\obj\Debug\UserDefinedFunction.csproj.CoreCompileInputs.cache
+C:\Users\biala\OneDrive\Documents\IM2\HW3\UserDefinedFunction\UserDefinedFunction\obj\Debug\UserDefinedFunction.exe
+C:\Users\biala\OneDrive\Documents\IM2\HW3\UserDefinedFunction\UserDefinedFunction\obj\Debug\UserDefinedFunction.pdb
