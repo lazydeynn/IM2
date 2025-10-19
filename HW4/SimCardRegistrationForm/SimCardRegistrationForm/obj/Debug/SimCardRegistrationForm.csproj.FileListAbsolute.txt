@@ -1,0 +1,11 @@
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\bin\Debug\SimCardRegistrationForm.exe.config
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\bin\Debug\SimCardRegistrationForm.exe
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\bin\Debug\SimCardRegistrationForm.pdb
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\obj\Debug\SimCardRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\obj\Debug\SimCardRegistrationForm.Form1.resources
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\obj\Debug\SimCardRegistrationForm.Properties.Resources.resources
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\obj\Debug\SimCardRegistrationForm.csproj.GenerateResource.cache
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\obj\Debug\SimCardRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\obj\Debug\SimCardRegistrationForm.exe
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\obj\Debug\SimCardRegistrationForm.pdb
+C:\Users\biala\OneDrive\Documents\IM2\HW4\SimCardRegistrationForm\SimCardRegistrationForm\obj\Debug\SimCardRegistrationForm.Form2.resources
